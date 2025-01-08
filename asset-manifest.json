@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/graphic-design-portflio/static/css/main.0ec39e15.css",
-    "main.js": "/graphic-design-portflio/static/js/main.258d7ea2.js",
-    "static/js/358.6ff5ebbb.chunk.js": "/graphic-design-portflio/static/js/358.6ff5ebbb.chunk.js",
-    "static/media/GreyScale.png": "/graphic-design-portflio/static/media/GreyScale.692ae0929a26eee09b4a.png",
-    "static/media/logo.svg": "/graphic-design-portflio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/graphic-design-portflio/index.html",
-    "main.0ec39e15.css.map": "/graphic-design-portflio/static/css/main.0ec39e15.css.map",
-    "main.258d7ea2.js.map": "/graphic-design-portflio/static/js/main.258d7ea2.js.map",
-    "358.6ff5ebbb.chunk.js.map": "/graphic-design-portflio/static/js/358.6ff5ebbb.chunk.js.map"
+    "main.css": "/graphic-design-template/static/css/main.0ec39e15.css",
+    "main.js": "/graphic-design-template/static/js/main.6102f8cd.js",
+    "static/js/358.6ff5ebbb.chunk.js": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js",
+    "static/media/GreyScale.png": "/graphic-design-template/static/media/GreyScale.692ae0929a26eee09b4a.png",
+    "static/media/logo.svg": "/graphic-design-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/graphic-design-template/index.html",
+    "main.0ec39e15.css.map": "/graphic-design-template/static/css/main.0ec39e15.css.map",
+    "main.6102f8cd.js.map": "/graphic-design-template/static/js/main.6102f8cd.js.map",
+    "358.6ff5ebbb.chunk.js.map": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ec39e15.css",
-    "static/js/main.258d7ea2.js"
+    "static/js/main.6102f8cd.js"
   ]
 }
