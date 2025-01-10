@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/graphic-design-template/static/css/main.603a4746.css",
-    "main.js": "/graphic-design-template/static/js/main.f4e51395.js",
+    "main.css": "/graphic-design-template/static/css/main.812ae787.css",
+    "main.js": "/graphic-design-template/static/js/main.5c49c3ef.js",
     "static/js/358.6ff5ebbb.chunk.js": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js",
     "static/media/GreyScale.png": "/graphic-design-template/static/media/GreyScale.692ae0929a26eee09b4a.png",
-    "static/media/logo.svg": "/graphic-design-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bloom-mobile.jpg": "/graphic-design-template/static/media/bloom-mobile.313f1a7daac97a16a806.jpg",
+    "static/media/logo.png": "/graphic-design-template/static/media/logo.25e1a83ccfa005b5278b.png",
+    "static/media/butterfly-svgrepo-com.svg": "/graphic-design-template/static/media/butterfly-svgrepo-com.edf0bcfa53b73b8d6e9ca45384b8699d.svg",
     "index.html": "/graphic-design-template/index.html",
-    "main.603a4746.css.map": "/graphic-design-template/static/css/main.603a4746.css.map",
-    "main.f4e51395.js.map": "/graphic-design-template/static/js/main.f4e51395.js.map",
+    "main.812ae787.css.map": "/graphic-design-template/static/css/main.812ae787.css.map",
+    "main.5c49c3ef.js.map": "/graphic-design-template/static/js/main.5c49c3ef.js.map",
     "358.6ff5ebbb.chunk.js.map": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.603a4746.css",
-    "static/js/main.f4e51395.js"
+    "static/css/main.812ae787.css",
+    "static/js/main.5c49c3ef.js"
   ]
 }
