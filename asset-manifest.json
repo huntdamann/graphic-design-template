@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/graphic-design-template/static/css/main.2fe4da32.css",
-    "main.js": "/graphic-design-template/static/js/main.b42acbb4.js",
+    "main.css": "/graphic-design-template/static/css/main.2709d8be.css",
+    "main.js": "/graphic-design-template/static/js/main.9faec874.js",
     "static/js/358.6ff5ebbb.chunk.js": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js",
     "static/media/bloom-1.png": "/graphic-design-template/static/media/bloom-1.978331fe23a8340f5b33.png",
     "static/media/GreyScale.png": "/graphic-design-template/static/media/GreyScale.692ae0929a26eee09b4a.png",
@@ -12,12 +12,12 @@
     "static/media/nature.jpeg": "/graphic-design-template/static/media/nature.e1ef7ffff4a09aeab663.jpeg",
     "static/media/butterfly-svgrepo-com.svg": "/graphic-design-template/static/media/butterfly-svgrepo-com.edf0bcfa53b73b8d6e9ca45384b8699d.svg",
     "index.html": "/graphic-design-template/index.html",
-    "main.2fe4da32.css.map": "/graphic-design-template/static/css/main.2fe4da32.css.map",
-    "main.b42acbb4.js.map": "/graphic-design-template/static/js/main.b42acbb4.js.map",
+    "main.2709d8be.css.map": "/graphic-design-template/static/css/main.2709d8be.css.map",
+    "main.9faec874.js.map": "/graphic-design-template/static/js/main.9faec874.js.map",
     "358.6ff5ebbb.chunk.js.map": "/graphic-design-template/static/js/358.6ff5ebbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fe4da32.css",
-    "static/js/main.b42acbb4.js"
+    "static/css/main.2709d8be.css",
+    "static/js/main.9faec874.js"
   ]
 }
